@@ -32,5 +32,3 @@ fetch('https://jsonplaceholder.typicode.com/posts')
             document.body.appendChild(item);
         }
     });
-json
-posts.json
